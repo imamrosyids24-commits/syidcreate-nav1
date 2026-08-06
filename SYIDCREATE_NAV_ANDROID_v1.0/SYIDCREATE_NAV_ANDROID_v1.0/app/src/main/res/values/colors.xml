@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nav_bg">#071018</color>
+    <color name="nav_card">#102331</color>
+    <color name="nav_cyan">#20E9FF</color>
+    <color name="nav_green">#56F08A</color>
+    <color name="nav_yellow">#FFD84D</color>
+    <color name="nav_red">#FF5B67</color>
+    <color name="nav_white">#F4FAFF</color>
+    <color name="nav_muted">#91A7B8</color>
+</resources>

@@ -1,0 +1,24 @@
+CARA MEMBUAT APK SYIDCREATE NAV
+
+OPSI 1 - ANDROID STUDIO
+1. Ekstrak ZIP proyek.
+2. Buka Android Studio.
+3. Pilih Open dan arahkan ke folder SYIDCREATE_NAV_ANDROID_v1.0.
+4. Izinkan Android Studio mengunduh Gradle, Android SDK 35, dan Build Tools.
+5. Setelah Gradle Sync selesai, pilih menu Build > Build APK(s).
+6. APK berada di app/build/outputs/apk/debug/app-debug.apk.
+
+OPSI 2 - GITHUB ACTIONS
+1. Upload seluruh isi folder proyek ke repository GitHub.
+2. Buka tab Actions.
+3. Pilih Build SYIDCREATE NAV APK.
+4. Tekan Run workflow.
+5. Download artifact SYIDCREATE-NAV-debug-apk.
+
+PENGATURAN DI PONSEL
+1. Instal APK dan izinkan instalasi dari sumber ini bila diminta.
+2. Tekan Aktifkan Izin Bluetooth.
+3. Tekan Buka Akses Notifikasi dan aktifkan SYIDCREATE Google Maps Reader.
+4. Tekan Izinkan Berjalan di Latar Belakang.
+5. Nyalakan T-Display-S3 lalu tekan Hubungkan Sekarang.
+6. Gunakan tombol Kirim Tes Belok Kanan untuk pemeriksaan awal.
